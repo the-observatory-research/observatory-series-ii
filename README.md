@@ -62,4 +62,4 @@ The completed *What Remains* study is the frozen research source. Any updates to
 
 ## License and citation
 
-**License not assigned in this starter.** Do not add an open
+**License not assigned in this starter.** Do not add an open-source license or imply permission to redistribute third-party platform responses until rights are reviewed. Add an accurate citation record / DOI for the corresponding research work once verified.
